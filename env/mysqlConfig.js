@@ -2,7 +2,7 @@ const config = {
     host: 'localhost',
     user: 'root',
     password: 'root',
-    database: 'test_db'
+    database: 'db_parcial'
 };
 
 module.exports = config;
